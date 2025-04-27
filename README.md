@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m undergraduate software engineer<br>👯 I’m looking to contribute on open source projects<br>🌱 I’m currently learning Android development<br>💬 Ask me about java<br>
+🔭I am Aiman Zahid, a final-year BS Software Engineering student at FAST CFD Campus and a gold medalist in my department with a CGPA of 3.49. I have industry experience through my internship at the U.S. Embassy as a Computer Science Intern. Additionally, I have been a Teaching Assistant for over two years in various courses, enhancing my leadership and mentoring skills. I currently serve as the Vice President of the Software Engineering Society and as a Student Ambassador for Tajarrba. Passionate about applying my skills in a professional setting, I am eager to contribute and grow in a dynamic work environment.<br>💬 Ask me about java/Testing<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itxaiman46) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aiman-Zahid) 
